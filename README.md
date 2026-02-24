@@ -10,7 +10,7 @@ A Jetpack Compose screen for browsing and selecting tags using **wrapping chips*
 
 ## Screenshot
 
-![Tag Browser](./cs501_hw3_q3.png)
+<img src="./cs501_hw3_q3.png" width="350" alt="Tag Browser screenshot" />
 
 ---
 
